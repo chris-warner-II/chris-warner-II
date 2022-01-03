@@ -1,6 +1,14 @@
-### Hi there 👋
+### Hello there 👋
 
-Hello. I earned my Ph.D. in Biophysics and Computational Neuroscience from UC Berkeley in Aug 2019. I was a member of the [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu). Here are a couple of projects from that time. 
+I earned my Ph.D. in [Biophysics](https://biophysics.berkeley.edu) from UC Berkeley in Aug 2019. 
+I focused on Computational Neuroscience and retinal processing 👁️ at the [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu). 
+Two of the main projects I worked on in grad school (represented in this code repo) were:
+(1). A computational model for grouping visual information in retina based on phase-coupled oscillators that facilitated segmentation of images.
+(2). Cell Assemblies.
+
+
+
+Here are a couple of projects from that time. 
 
 My [linkedin](https://www.linkedin.com/in/chris-warner316/) profile.
 
