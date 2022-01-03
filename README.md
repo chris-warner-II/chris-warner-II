@@ -1,10 +1,15 @@
 ### Hello there 👋
 
-I earned my Ph.D. in [Biophysics](https://biophysics.berkeley.edu) from UC Berkeley in Aug 2019. 
-I focused on Computational Neuroscience and retinal processing 👁️ at the [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu). 
-Two of the main projects I worked on in grad school (represented in this code repo) were:
-(1). A computational model for grouping visual information in retina based on phase-coupled oscillators that facilitated segmentation of images.
-(2). Cell Assemblies.
+I earned my Ph.D. in [Biophysics](https://biophysics.berkeley.edu) from UC Berkeley in Aug 2019.  
+
+I focused on Computational Neuroscience and retinal processing 👁️ at the [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu).  
+
+Two of the main projects I worked on in grad school (represented in this code repo) were:  
+
+1. A computational model for grouping visual information in retina based on phase-coupled oscillators that facilitated segmentation of images.  
+
+2. Cell Assemblies.  
+
 
 
 
