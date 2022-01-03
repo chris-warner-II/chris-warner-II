@@ -5,9 +5,7 @@
 I focused on Computational Neuroscience and retinal processing 👁️ at the [Redwood Center](https://redwood.berkeley.edu).  
 
 My main projects from grad school (represented in this repo) are:  
-
   1. A computational model for grouping visual information in retina based on phase-coupled oscillators that facilitated segmentation of images.  
-
   2. A probabilistic latent variable model to detect structure in binary data applied to retinal spike trains to discover cell assemblies.
 
 - - -
@@ -17,11 +15,11 @@ My main projects from grad school (represented in this repo) are:
 
 My interest in lyrics and poetry led me to a side project exploring phonemic word representations and transformer networks.  
 
-That side project led me to some consulting work applying machine learning and transformers for predicting protein-ligand interactions with [CODA Biotheraputics](https://www.codabiotherapeutics.com).  
+That side project led me to consulting work applying machine learning to predict protein-ligand interactions with [CODA Biotheraputics](https://www.codabiotherapeutics.com).  
 
 I am currently looking for the next step in my career and life journey.  
 
-For more information, visit my [linkedin](https://www.linkedin.com/in/chris-warner316/) profile.  
+For more information, please visit my [linkedin](https://www.linkedin.com/in/chris-warner316/) profile.  
 
 Thank you for stopping by!  
 Chris
