@@ -1,9 +1,15 @@
 ### Hi there 👋
 
+Hello. I earned my Ph.D. in Biophysics and Computational Neuroscience from UC Berkeley in Aug 2019. I was a member of the [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu). Here are a couple of projects from that time. 
+
+My [linkedin](https://www.linkedin.com/in/chris-warner316/) profile.
+
 <!--
 **chris-warner-II/chris-warner-II** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+- My [SoundCloud](https://soundcloud.com/chris-warner-10)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
