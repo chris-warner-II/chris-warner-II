@@ -1,10 +1,10 @@
-### Hello there 👋
+### Hello there 👋. Welcome. Some context 📖.
 
 **I earned my Ph.D.** in [Biophysics](https://biophysics.berkeley.edu) from UC Berkeley in Aug 2019.  
 
-I focused on Computational Neuroscience and retinal processing 👁️ at the [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu).  
+I focused on Computational Neuroscience and retinal processing 👁️ at the [Redwood Center](https://redwood.berkeley.edu).  
 
-Two of my main projects from grad school (represented in this code repo) are:  
+My main projects from grad school (represented in this repo) are:  
 
   1. A computational model for grouping visual information in retina based on phase-coupled oscillators that facilitated segmentation of images.  
 
@@ -12,17 +12,18 @@ Two of my main projects from grad school (represented in this code repo) are:
 
 - - -
 
-**Since earning my Ph.D.**, I have taken some time to pursue personal growth 🌱 and a passion for music 🎶. My [SoundCloud](https://soundcloud.com/chris-warner-10)  
+**Since earning my Ph.D.**, I have taken some time to pursue personal growth 🌱 and a passion for music 🎶.  
+<!-- My [SoundCloud](https://soundcloud.com/chris-warner-10) --> 
 
-My interest in lyrics and poetry led me to a side project...   
+My interest in lyrics and poetry led me to a side project exploring phonemic word representations and transformer networks.  
 
-Talking about that side project with friends led me to do some consulting work applying transformer networks to proteins.  
+That side project led me to some consulting work applying machine learning and transformers for predicting protein-ligand interactions with [CODA Biotheraputics](https://www.codabiotherapeutics.com).  
 
 I am currently looking for the next step in my career and life journey.  
 
-My [linkedin](https://www.linkedin.com/in/chris-warner316/) profile.
+For more information, visit my [linkedin](https://www.linkedin.com/in/chris-warner316/) profile.  
 
-Thank you for stopping by!
+Thank you for stopping by!  
 Chris
 
 
