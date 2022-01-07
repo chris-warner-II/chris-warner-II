@@ -1,4 +1,3 @@
-### Welcome. 
 ## Some context 📖.
 
 **I earned my Ph.D.** in [Biophysics](https://biophysics.berkeley.edu) from UC Berkeley in Aug 2019.  
