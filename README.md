@@ -1,4 +1,4 @@
-## Some context 📖.
+### For context 📖,
 
 **I earned my Ph.D.** in [Biophysics](https://biophysics.berkeley.edu) from UC Berkeley in Aug 2019.  
 I focused on Computational Neuroscience and retinal processing 👁️ at the [Redwood Center](https://redwood.berkeley.edu).  
