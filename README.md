@@ -9,9 +9,9 @@ My main projects from grad school (represented in this repo) are:
 
 **Since my Ph.D.**, I have taken some time to pursue personal growth 🌱 and a passion for music 🎶. <!-- My [SoundCloud](https://soundcloud.com/chris-warner-10) -->  
 My interest in lyrics and poetry led me to a side project exploring phonemic word representations and transformer networks.  
-That side project led me to consulting work with [CODA Biotheraputics](https://www.codabiotherapeutics.com) applying machine learning to predict protein-ligand interactions.  
+That side project resulted in consulting work with [CODA Biotheraputics](https://www.codabiotherapeutics.com) applying machine learning to predict protein-ligand interactions.  
 
-I am currently looking forward to the next step in my journey.  
+I am currently looking forward to the next step in my career journey.  
 For more information, please visit my [linkedin](https://www.linkedin.com/in/chris-warner316/) profile.  
 
 Thank you for stopping by!  
