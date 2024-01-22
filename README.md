@@ -1,31 +1,3 @@
-**I earned my Ph.D.** in [Biophysics](https://biophysics.berkeley.edu) from UC Berkeley in Aug 2019,  
-where I focused on Computational Neuroscience and retinal processing 👁️ at the [Redwood Center](https://redwood.berkeley.edu).  
-My main projects from grad school (represented in this repo) contain:  
-  1. A computational model to group visual information in retina based on phase-coupled oscillators and anisotropic diffusion facilitating image segmentation.  
-  2. A probabilistic latent variable model to detect structure in binary data applied to retinal spike trains discovering cell assemblies.
+I am currently a postdoctoral affiliate researcher at Lawrence Berkeley Lab, where I am investigating the temporal complexity of human speech with Dr. Kris Bouchard. Before that, I was a Machine Learning Researcher at CODA Biotherapeutics applying machine learning and Language models to drug discovery and gene therapy. I earned my Ph.D. in Biophysics studying visual processing with Dr. Friedrich Sommer at the Redwood Center for Theoretical Neuroscience, University of California, Berkeley. Prior to that, I also pursued a masters in Electrical & Computer Engineering and performed research in robotics at the University of Arizona. Between undergrad and graduate school, I worked for 4 years as an Electrical Engineer focusing on Radar systems at MIT Lincoln Laboratory. I received a Bachelor of Science degree in Physics from the Ohio State University, graduating magna cum laude and conducting geodetics research with the Bevis Lab. 
 
-**Since my Ph.D.**, I have taken some time to pursue personal growth 🌱 and a passion for music 🎶. During that time, I self-produced an album of original songs I wrote, performed and recorded. <!-- My [SoundCloud](https://soundcloud.com/chris-warner-10) -->  
-My interest in lyrics and poetry led me to a side project exploring phonemic word representations and transformer networks.  
-That side project resulted in consulting work with [CODA Biotheraputics](https://www.codabiotherapeutics.com) applying machine learning and NLP models to predict protein-ligand interactions for drug discovery.  
-
-I am currently looking forward to the next step in my career and life journey.
-For more information, please visit my [linkedin](https://www.linkedin.com/in/chris-warner-ii/) profile.  
-
-Thank you for stopping by!  
-Chris Warner
-
-
-<!--
-**chris-warner-II/chris-warner-II** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a driven and creative self-starter, passionate about embracing challenge and personal growth. I have self-produced an album of original music in Logic Pro. I have animated short films showcasing original digital artwork in Blender. I enjoy systems level thinking and thrive at the intersection of technical ability and creativity, where both are required to bring various inputs together into algorithmic solutions. Please visit my website (chris-warner-ii.github.io) for further description of portfolio projects and technical/creative projects.
